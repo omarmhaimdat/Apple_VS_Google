@@ -7,13 +7,21 @@ TL;DR…Apple's Text Recognition is Crushing it
 
 ## Install the Pods
 
-Clone the repository and get in the directory:
+* Clone the repository:
 
-```sh
+```
+git clone https://github.com/omarmhaimdat/Apple_VS_Google.git
+```
+
+* Get in the directory:
+
+```
 cd Apple_VS_Google
 ```
 
-```sh
+* Install pods:
+
+```
 pod install
 ```
 There is only two major dependencies which are:
