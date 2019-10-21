@@ -7,7 +7,11 @@ TL;DR…Apple's Text Recognition is Crushing it
 
 ## Install the Pods
 
-Clone the repository and get in the directory
+Clone the repository and get in the directory:
+
+```sh
+cd Apple_VS_Google
+```
 
 ```sh
 pod install
