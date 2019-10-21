@@ -21,7 +21,11 @@ pod 'Firebase/MLVisionTextModel'
 
 ## About me
 
-Omar MHAIMDAT – [Linkedin](https://www.linkedin.com/in/omarmhaimdat/) – omarmhaimdat@gmail.com
+**Omar MHAIMDAT:**
+
+**Linkedin:** [Linkedin profile](https://www.linkedin.com/in/omarmhaimdat/)
+
+**Email:** omarmhaimdat@gmail.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
