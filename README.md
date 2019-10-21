@@ -21,7 +21,7 @@ pod 'Firebase/MLVisionTextModel'
 
 ## About me
 
-**Omar MHAIMDAT:**
+### Omar MHAIMDAT:
 
 **Linkedin:** [Linkedin profile](https://www.linkedin.com/in/omarmhaimdat/)
 
