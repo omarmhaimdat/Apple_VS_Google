@@ -134,7 +134,7 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
                 
                 request.recognitionLevel = .accurate
                 request.usesLanguageCorrection = true
-                request.customWords = ["Omar", "MHAIMDAT"]
+                request.customWords = ["Omar", "MHAIMDAT", "omar", "mhaimdat"]
                 try? requestHandler.perform([request])
                 
             } else if self.whatService == "Google" {
